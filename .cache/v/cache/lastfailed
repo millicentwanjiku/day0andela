@@ -1,0 +1,12 @@
+{
+  "testprimeno.py::TestPrime::test_generate_output_two_only": true, 
+  "testprimeno.py::TestPrime::test_negative_numbers": true, 
+  "testprimeno.py::TestPrime::test_number_is_dictionary": true, 
+  "testprimeno.py::TestPrime::test_number_is_int": true, 
+  "testprimeno.py::TestPrime::test_number_is_list": true, 
+  "testprimeno.py::TestPrime::test_number_is_tuple": true, 
+  "testprimeno.py::TestPrime::test_number_one": true, 
+  "testprimeno.py::TestPrime::test_primenumbers": true, 
+  "testprimeno.py::TestPrime::test_return_list": true, 
+  "testprimeno.py::TestPrime::test_return_list_length": true
+}

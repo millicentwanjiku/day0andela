@@ -1,6 +1,9 @@
 #Function that find numbers between 0-n
 def prime_num(number):
     #The list of prime numbers
+    if not isinstance(number,int):
+        return "only intergers are allowed"
+
     primenumbers=[]
     isdivisible=True
     if number<0:
@@ -16,4 +19,5 @@ def prime_num(number):
     return primenumbers
 print prime_num(50)
 print prime_num(-5)
+print prime_num("kiki")
 
